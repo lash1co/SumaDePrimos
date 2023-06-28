@@ -1,0 +1,15 @@
+C:\DATOS\2023\Visual Studio\CalculosMVC\BL\bin\Debug\net6.0\BL.deps.json
+C:\DATOS\2023\Visual Studio\CalculosMVC\BL\bin\Debug\net6.0\BL.dll
+C:\DATOS\2023\Visual Studio\CalculosMVC\BL\bin\Debug\net6.0\BL.pdb
+C:\DATOS\2023\Visual Studio\CalculosMVC\BL\obj\Debug\net6.0\BL.csproj.AssemblyReference.cache
+C:\DATOS\2023\Visual Studio\CalculosMVC\BL\obj\Debug\net6.0\BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\DATOS\2023\Visual Studio\CalculosMVC\BL\obj\Debug\net6.0\BL.AssemblyInfoInputs.cache
+C:\DATOS\2023\Visual Studio\CalculosMVC\BL\obj\Debug\net6.0\BL.AssemblyInfo.cs
+C:\DATOS\2023\Visual Studio\CalculosMVC\BL\obj\Debug\net6.0\BL.csproj.CoreCompileInputs.cache
+C:\DATOS\2023\Visual Studio\CalculosMVC\BL\obj\Debug\net6.0\BL.dll
+C:\DATOS\2023\Visual Studio\CalculosMVC\BL\obj\Debug\net6.0\refint\BL.dll
+C:\DATOS\2023\Visual Studio\CalculosMVC\BL\obj\Debug\net6.0\BL.pdb
+C:\DATOS\2023\Visual Studio\CalculosMVC\BL\obj\Debug\net6.0\ref\BL.dll
+C:\DATOS\2023\Visual Studio\CalculosMVC\BL\bin\Debug\net6.0\DAL.dll
+C:\DATOS\2023\Visual Studio\CalculosMVC\BL\bin\Debug\net6.0\DAL.pdb
+C:\DATOS\2023\Visual Studio\CalculosMVC\BL\obj\Debug\net6.0\BL.csproj.CopyComplete

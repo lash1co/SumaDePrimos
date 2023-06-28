@@ -1,0 +1,14 @@
+C:\DATOS\2023\Visual Studio\CalculosMVC\DAL\bin\Release\net6.0\DAL.deps.json
+C:\DATOS\2023\Visual Studio\CalculosMVC\DAL\bin\Release\net6.0\DAL.runtimeconfig.json
+C:\DATOS\2023\Visual Studio\CalculosMVC\DAL\bin\Release\net6.0\DAL.dll
+C:\DATOS\2023\Visual Studio\CalculosMVC\DAL\bin\Release\net6.0\DAL.pdb
+C:\DATOS\2023\Visual Studio\CalculosMVC\DAL\obj\Release\net6.0\DAL.csproj.AssemblyReference.cache
+C:\DATOS\2023\Visual Studio\CalculosMVC\DAL\obj\Release\net6.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\DATOS\2023\Visual Studio\CalculosMVC\DAL\obj\Release\net6.0\DAL.AssemblyInfoInputs.cache
+C:\DATOS\2023\Visual Studio\CalculosMVC\DAL\obj\Release\net6.0\DAL.AssemblyInfo.cs
+C:\DATOS\2023\Visual Studio\CalculosMVC\DAL\obj\Release\net6.0\DAL.csproj.CoreCompileInputs.cache
+C:\DATOS\2023\Visual Studio\CalculosMVC\DAL\obj\Release\net6.0\DAL.dll
+C:\DATOS\2023\Visual Studio\CalculosMVC\DAL\obj\Release\net6.0\refint\DAL.dll
+C:\DATOS\2023\Visual Studio\CalculosMVC\DAL\obj\Release\net6.0\DAL.pdb
+C:\DATOS\2023\Visual Studio\CalculosMVC\DAL\obj\Release\net6.0\DAL.genruntimeconfig.cache
+C:\DATOS\2023\Visual Studio\CalculosMVC\DAL\obj\Release\net6.0\ref\DAL.dll

@@ -1,0 +1,46 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@model DAL.Models.Calculo
+@{
+    ViewData["Title"] = "Eliminar Calculo";
+}
+<h2>Eliminar Cálculo</h2>
+<p>¿Estás seguro de que deseas eliminar el siguiente producto?</p>
+
+<div>
+    <h4>
+        Detalles del cálculo
+    </h4>
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-2">ID</dt>
+        <dd class="col-sm-10">@Model.Id</dd>
+        <dt class="col-sm-2">Usuario</dt>
+        <dd class="col-sm-10">@Model.Usuario</dd>
+        <dt class="col-sm-2">Respuesta</dt>
+        <dd class="col-sm-10">@Model.Respuesta</dd>
+        <dt class="col-sm-2">Fecha y hora</dt>
+        <dd class="col-sm-10">@Model.Fecha</dd>
+    </dl>
+</div>
+
+<div class="row">
+    <form asp-asp-controller="Calculo" asp-action="DeleteConfirmation" method="post">
+        <input type="hidden" asp-for="Id"/>
+        <div class="col-md-3">
+            <div class="row">
+                <div class="col">
+                    <div class="form-group">
+                        <button type="submit" class="btn btn-danger">Eliminar</button>
+                    </div>
+                </div>
+                <div class="col">
+                    <div class="form-group">
+                        <a asp-controller="Calculo" asp-action="GetRegistros" class="btn btn-secondary">Cancelar</a>
+                    </div>
+                </div>
+            </div>
+        </div>    
+    </form>
+</div>
